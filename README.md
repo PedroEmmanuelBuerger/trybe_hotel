@@ -21,9 +21,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Principais Aprendizados
 Os principais aprendizados incluem:
-Utilizar a programação orientada a objetos pra fazer as 3 camadas MSC com o c#.
-Aplicar regra de negocios nos processos que envolve toda a aplicação.
-Organizar cada parte do código para que ele fique bem escrito e bem separado de acordo com sua funcionalidade.
+- Utilizar a programação orientada a objetos pra fazer as 3 camadas MSC com o c#.
+- Aplicar regra de negocios nos processos que envolve toda a aplicação.
+- Organizar cada parte do código para que ele fique bem escrito e bem separado de acordo com sua funcionalidade.
 
 
 ## Conclusão
