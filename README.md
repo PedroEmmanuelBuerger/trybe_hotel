@@ -13,10 +13,10 @@ Analise sobre Regiões como geo localidade e cidade sobre cada quarto e hotel.
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-C#
-Test
-POO
-Dockerfile
+- c#
+- Test
+- POO
+- Dockerfile
 
 
 ## Principais Aprendizados
