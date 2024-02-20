@@ -4,11 +4,11 @@ Trybe Hotel é um projeto desenvolvido como parte do curso "Trybe" para gerencia
 ## Funcionalidades
 O projeto possui as seguintes funcionalidades:
 
-Gerenciamento de quartos: permite adicionar, remover e atualizar informações sobre os quartos disponíveis no hotel.
-Reservas de quartos: possibilita aos usuários realizar reservas de quartos para datas específicas.
-Consulta de ocupação: permite verificar a disponibilidade e ocupação dos quartos em determinadas datas.
-Registro de clientes: possibilita registrar informações sobre os clientes que fizeram reservas no hotel.
-Analise sobre Regiões como geo localidade e cidade sobre cada quarto e hotel.
+- Gerenciamento de quartos: permite adicionar, remover e atualizar informações sobre os quartos disponíveis no hotel.
+- Reservas de quartos: possibilita aos usuários realizar reservas de quartos para datas específicas.
+- Consulta de ocupação: permite verificar a disponibilidade e ocupação dos quartos em determinadas datas.
+- Registro de clientes: possibilita registrar informações sobre os clientes que fizeram reservas no hotel.
+- Analise: analise sobre Regiões como geo localidade e cidade sobre cada quarto e hotel.
 
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
